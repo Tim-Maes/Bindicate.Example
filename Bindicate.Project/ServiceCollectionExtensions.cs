@@ -1,4 +1,4 @@
-﻿using Bindicate.Configuration;
+﻿using Bindicate;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 

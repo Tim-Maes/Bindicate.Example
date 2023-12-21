@@ -1,4 +1,4 @@
-using Bindicate.Configuration;
+using Bindicate;
 using Bindicate.Project;
 using Bindicate.ProjectWithOptions;
 using System.Reflection;
